@@ -1,4 +1,4 @@
-<img sc="./shots/Capture.JPG"/>
+<img src="./shots/Capture.JPG" alt="Screen Shot of Project"/>
 
 # Getting Started with Create React App
 
